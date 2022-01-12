@@ -26,6 +26,13 @@ const styles = StyleSheet.create({
     width: '100%',
     height: 200,
   },
+  iconAdd: {
+    marginBottom: 15,
+  },
+  iconClose: {},
+  touchable: {
+    alignSelf: 'center',
+  },
 });
 
 export default styles;

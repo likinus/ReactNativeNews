@@ -11,15 +11,15 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		977E6C055EF76E4FF5172484 /* libPods-ReactNativeNews.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D31C0060BAEF9FA45FBE215 /* libPods-ReactNativeNews.a */; };
-		AB7ED98056FE36843A9B728F /* libPods-ReactNativeNews-ReactNativeNewsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AC67975166A60A829C75058 /* libPods-ReactNativeNews-ReactNativeNewsTests.a */; };
-		400AAA7F64FD49C8AD556C0F /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85F8674215AA4640A62D7848 /* FontAwesome.ttf */; };
 		1CDD60388EB142F8A21E6DF1 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BEEBEDF770C340BF8125B7C9 /* FontAwesome5_Brands.ttf */; };
 		3E7BEEF0DE834C208A5112C6 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BBFB70C9AA2E48FBB97C2096 /* FontAwesome5_Regular.ttf */; };
-		CB9F13F9FDA247AE91D8180B /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C54308FA2BCA49B9BAE7AB3C /* FontAwesome5_Solid.ttf */; };
+		400AAA7F64FD49C8AD556C0F /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85F8674215AA4640A62D7848 /* FontAwesome.ttf */; };
 		56C80DEE950F4157A61AAB07 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 95BFE1E9690F43B68602BD66 /* Montserrat-Bold.ttf */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		977E6C055EF76E4FF5172484 /* libPods-ReactNativeNews.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D31C0060BAEF9FA45FBE215 /* libPods-ReactNativeNews.a */; };
 		AA1E415E228B4F2BB7649C91 /* Montserrat-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 685F1AA298514F3F940CC175 /* Montserrat-Light.ttf */; };
+		AB7ED98056FE36843A9B728F /* libPods-ReactNativeNews-ReactNativeNewsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AC67975166A60A829C75058 /* libPods-ReactNativeNews-ReactNativeNewsTests.a */; };
+		CB9F13F9FDA247AE91D8180B /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C54308FA2BCA49B9BAE7AB3C /* FontAwesome5_Solid.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,17 +45,17 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ReactNativeNews/main.m; sourceTree = "<group>"; };
 		3AC67975166A60A829C75058 /* libPods-ReactNativeNews-ReactNativeNewsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeNews-ReactNativeNewsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		58434DEE1556301E61584059 /* Pods-ReactNativeNews.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeNews.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeNews/Pods-ReactNativeNews.debug.xcconfig"; sourceTree = "<group>"; };
+		685F1AA298514F3F940CC175 /* Montserrat-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Light.ttf"; path = "../fonts/Montserrat-Light.ttf"; sourceTree = "<group>"; };
 		6D31C0060BAEF9FA45FBE215 /* libPods-ReactNativeNews.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeNews.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ReactNativeNews/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		85F8674215AA4640A62D7848 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = ../fonts/FontAwesome.ttf; sourceTree = "<group>"; };
+		95BFE1E9690F43B68602BD66 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Bold.ttf"; path = "../fonts/Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		BBFB70C9AA2E48FBB97C2096 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = ../fonts/FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		BEEBEDF770C340BF8125B7C9 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = ../fonts/FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		C54308FA2BCA49B9BAE7AB3C /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = ../fonts/FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
 		DB81F6EEBD7C2B43EB6D4951 /* Pods-ReactNativeNews-ReactNativeNewsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeNews-ReactNativeNewsTests.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeNews-ReactNativeNewsTests/Pods-ReactNativeNews-ReactNativeNewsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F2734592AD78B3F821FBCB4A /* Pods-ReactNativeNews-ReactNativeNewsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeNews-ReactNativeNewsTests.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeNews-ReactNativeNewsTests/Pods-ReactNativeNews-ReactNativeNewsTests.release.xcconfig"; sourceTree = "<group>"; };
-		85F8674215AA4640A62D7848 /* FontAwesome.ttf */ = {isa = PBXFileReference; name = "FontAwesome.ttf"; path = "../fonts/FontAwesome.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BEEBEDF770C340BF8125B7C9 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Brands.ttf"; path = "../fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BBFB70C9AA2E48FBB97C2096 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Regular.ttf"; path = "../fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C54308FA2BCA49B9BAE7AB3C /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Solid.ttf"; path = "../fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		95BFE1E9690F43B68602BD66 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; name = "Montserrat-Bold.ttf"; path = "../fonts/Montserrat-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		685F1AA298514F3F940CC175 /* Montserrat-Light.ttf */ = {isa = PBXFileReference; name = "Montserrat-Light.ttf"; path = "../fonts/Montserrat-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +150,20 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		B2EABF4242D94DB1AC2EFA96 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				85F8674215AA4640A62D7848 /* FontAwesome.ttf */,
+				BEEBEDF770C340BF8125B7C9 /* FontAwesome5_Brands.ttf */,
+				BBFB70C9AA2E48FBB97C2096 /* FontAwesome5_Regular.ttf */,
+				C54308FA2BCA49B9BAE7AB3C /* FontAwesome5_Solid.ttf */,
+				95BFE1E9690F43B68602BD66 /* Montserrat-Bold.ttf */,
+				685F1AA298514F3F940CC175 /* Montserrat-Light.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		E3CA1B40E4E88FBDC6469AD2 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -161,20 +175,6 @@
 			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
-		};
-		B2EABF4242D94DB1AC2EFA96 /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				85F8674215AA4640A62D7848 /* FontAwesome.ttf */,
-				BEEBEDF770C340BF8125B7C9 /* FontAwesome5_Brands.ttf */,
-				BBFB70C9AA2E48FBB97C2096 /* FontAwesome5_Regular.ttf */,
-				C54308FA2BCA49B9BAE7AB3C /* FontAwesome5_Solid.ttf */,
-				95BFE1E9690F43B68602BD66 /* Montserrat-Bold.ttf */,
-				685F1AA298514F3F940CC175 /* Montserrat-Light.ttf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
